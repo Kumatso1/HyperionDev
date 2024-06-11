@@ -1,4 +1,5 @@
 import unittest
+import email_simulator
 from email_simulator import Email, inbox, populate_inbox
 
 class TestEmail(unittest.TestCase):
