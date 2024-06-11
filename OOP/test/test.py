@@ -1,5 +1,4 @@
 import unittest
-import email_simulator
 from email_simulator import Email, inbox, populate_inbox
 
 # email.py file was renamed email_simulator to avoid naming conflict with the in_built email module 
