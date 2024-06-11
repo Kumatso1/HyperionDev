@@ -4,7 +4,6 @@
 # Creating the class, constructor and methods to create a new Email object.
 
 # Declaring the class variable, with default value, for emails. 
- 
 # Initialising the instance variables for emails.
 
 # Creating the method to change 'has_been_read' emails from False to True.
